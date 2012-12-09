@@ -1,5 +1,4 @@
-
-Guess Numbers V2.0
+Guess Numbers V2.1
 
 This program can only be compiled and run on Windows
 
@@ -7,9 +6,10 @@ Dev-C++ 4.9.9.2 enabled.
 
 Author: Yuqi Liu, Ludi Fang, Jiaxi Wang
 
-Date: Feb 13th, 2010.
+Date: Apr 15th, 2010.
 
-Lots of bux fixes.
+Some bux fixes.
+
 
 猜数字游戏V2.0版本说明
 
