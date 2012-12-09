@@ -4,7 +4,7 @@ This program can only be compiled and run on Windows
 
 Dev-C++ 4.9.9.2 enabled.
 
-Author: Qi Gu, Yuqi Liu.
+Author: Yuqi Liu.
 
 Date: Jan 29th, 2010.
 
